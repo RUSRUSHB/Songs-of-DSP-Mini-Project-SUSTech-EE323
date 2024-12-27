@@ -6,3 +6,4 @@
 | - | - | - | - |
 | The Sun Also Rises | 付轩竹 | `The Sun Also Rises_flute.wav` | |
 | Группа крови（血液型）| | `Группа_крови.wav` | |
+| 鸿雁 | | `hongyan.wav` | |
